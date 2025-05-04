@@ -1,5 +1,5 @@
 # Student_Management_System
-![Visual Representation of the project](image-1.png)
+![Visual Representation of the project](image.png)
 
 # Use Cases
 The code is written in python to manage student data like recording, deleting and searching student names.
